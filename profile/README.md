@@ -29,3 +29,6 @@ BackEnd - [Visual Studio 2022](https://azureforeducation.microsoft.com/devtools)
 
 FrontEnd - Visual Studio Code + [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
+## Documentation
+
+SCRUM documenatation files are located in .github repo in docs folder.
